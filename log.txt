@@ -1,0 +1,1763 @@
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pukkelpop Festival
+Venue Location: Hasselt
+Date of the Event: 2019-08-16T12:00:00
+**********EVENT INFO*********
+1
+Name of the Venue: Krakow Live Fest
+Venue Location: Krakow
+Date of the Event: 2019-08-17T16:00:00
+**********EVENT INFO*********
+2
+Name of the Venue: Summer In The City
+Venue Location: Dublin
+Date of the Event: 2019-08-22T12:00:00
+**********EVENT INFO*********
+3
+Name of the Venue: Reading Festival
+Venue Location: Reading
+Date of the Event: 2019-08-24T08:00:00
+**********EVENT INFO*********
+4
+Name of the Venue: Leeds Festival
+Venue Location: Leeds
+Date of the Event: 2019-08-25T08:00:00
+**********EVENT INFO*********
+5
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-09-14T20:00:00
+**********EVENT INFO*********
+6
+Name of the Venue: Runaway Tour
+Venue Location: Vancouver
+Date of the Event: 2019-09-16T20:00:00
+**********EVENT INFO*********
+7
+Name of the Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Venue Location: Portland
+Date of the Event: 2019-09-17T20:00:00
+**********EVENT INFO*********
+8
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-09-19T20:00:00
+**********EVENT INFO*********
+9
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-09-21T20:00:00
+**********EVENT INFO*********
+10
+Name of the Venue: Life Is Beautiful
+Venue Location: Las Vegas
+Date of the Event: 2019-09-22T19:00:00
+**********EVENT INFO*********
+11
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-26T20:00:00
+**********EVENT INFO*********
+12
+Name of the Venue: Xcel Energy Center
+Venue Location: St Paul
+Date of the Event: 2019-09-27T20:00:00
+**********EVENT INFO*********
+13
+Name of the Venue: Little Caesars Arena
+Venue Location: Detroit
+Date of the Event: 2019-09-29T20:00:00
+**********EVENT INFO*********
+14
+Name of the Venue: United Center
+Venue Location: Chicago
+Date of the Event: 2019-10-01T20:00:00
+**********EVENT INFO*********
+15
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-10-03T19:00:00
+**********EVENT INFO*********
+16
+Name of the Venue: Runaway Tour
+Venue Location: Toronto
+Date of the Event: 2019-10-04T20:00:00
+**********EVENT INFO*********
+17
+Name of the Venue: KeyBank Center
+Venue Location: Buffalo
+Date of the Event: 2019-10-06T20:00:00
+**********EVENT INFO*********
+18
+Name of the Venue: Runaway Tour
+Venue Location: Boston
+Date of the Event: 2019-10-08T20:00:00
+**********EVENT INFO*********
+19
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-10-09T20:00:00
+**********EVENT INFO*********
+20
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-10-11T20:00:00
+**********EVENT INFO*********
+21
+Name of the Venue: Capital One Arena
+Venue Location: Washington
+Date of the Event: 2019-10-12T20:00:00
+**********EVENT INFO*********
+22
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-10-14T20:00:00
+**********EVENT INFO*********
+23
+Name of the Venue: Runaway Tour
+Venue Location: New York
+Date of the Event: 2019-10-15T20:00:00
+**********EVENT INFO*********
+24
+Name of the Venue: PNC Arena
+Venue Location: Raleigh
+Date of the Event: 2019-10-17T20:00:00
+**********EVENT INFO*********
+25
+Name of the Venue: State Farm Arena
+Venue Location: Atlanta
+Date of the Event: 2019-10-18T20:00:00
+**********EVENT INFO*********
+26
+Name of the Venue: American Airlines Arena
+Venue Location: Miami
+Date of the Event: 2019-10-20T20:00:00
+**********EVENT INFO*********
+27
+Name of the Venue: BB&T
+Venue Location: Fort Lauderdale
+Date of the Event: 2019-10-21T20:00:00
+**********EVENT INFO*********
+28
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-10-24T20:00:00
+**********EVENT INFO*********
+29
+Name of the Venue: Runaway Tour
+Venue Location: Jacksonville
+Date of the Event: 2019-10-25T20:00:00
+**********EVENT INFO*********
+30
+Name of the Venue: Voodoo Music + Arts Experience
+Venue Location: New Orleans
+Date of the Event: 2019-10-27T19:00:00
+**********EVENT INFO*********
+31
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-10-29T20:00:00
+**********EVENT INFO*********
+32
+Name of the Venue: POSTY FEST
+Venue Location: Dallas
+Date of the Event: 2019-11-02T12:00:00
+**********EVENT INFO*********
+33
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City
+Date of the Event: 2019-11-04T20:00:00
+**********EVENT INFO*********
+34
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-11-05T20:00:00
+**********EVENT INFO*********
+35
+Name of the Venue: Gila River Arena
+Venue Location: Glendale
+Date of the Event: 2019-11-08T20:00:00
+**********EVENT INFO*********
+36
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-11-10T20:00:00
+**********EVENT INFO*********
+37
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-11-11T20:00:00
+**********EVENT INFO*********
+38
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-14T20:00:00
+**********EVENT INFO*********
+39
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-11-16T20:00:00
+**********EVENT INFO*********
+40
+Name of the Venue: Runaway Tour
+Venue Location: Anaheim
+Date of the Event: 2019-11-17T20:00:00
+**********EVENT INFO*********
+41
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:00:00
+**********EVENT INFO*********
+42
+Name of the Venue: Runaway Tour
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:00:00
