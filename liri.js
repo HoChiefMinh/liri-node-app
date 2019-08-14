@@ -55,7 +55,7 @@ function findConcert(userSearch) {
                     '------------------Concert Info-------------------' +
                     '\nVenue: ' + response.data[i].venue.name +
                     '\nLocation: ' + response.data[i].venue.city +
-                    '\nDate: ' + moment(dateArr[0], 'MM-DD-YYYY');
+                    '\nDate: ' + (dateArr[0]);
                 console.log(concertInfo);
             }
         })
